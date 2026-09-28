@@ -2,3 +2,7 @@ gunicorn
 Flask
 langgraph
 python-dotenv
+langchain
+langchain-core
+langchain-groq
+requests
